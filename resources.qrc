@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/PGrantMan">
+    <file>icon.png</file>
+    <file>icon.svg</file>
+  </qresource>
+</RCC>
